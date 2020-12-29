@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Incomplete Information Handout"
+title:  "Some More Math Handouts"
 date:   2020-12-29 18:22:00 -0500
 categories: math
 ---
