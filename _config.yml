@@ -27,13 +27,14 @@ description: >- # this means to ignore newlines until "baseurl:"
    when I find the time to make blog posts.
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://itangdav.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  itangdav
 paginate: false
 
 # Build settings
 theme: minima
 minima:
   skin: solarized
+  social_links:
+    github: itangdav
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
