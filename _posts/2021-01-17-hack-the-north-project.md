@@ -7,5 +7,5 @@ categories: misc
 
 I just finished Hack the North today with 3 other people! We had a great time during the Ubisoft challenge and creating a survive as long as possible based game. You can find the code in this repo, and instructions of how to run it in the Read Me.
 
-<a>https://github.com/itangdav/Havalion-Castle-Rescue</a>
+<a href="https://github.com/itangdav/Havalion-Castle-Rescue">https://github.com/itangdav/Havalion-Castle-Rescue</a>
 
