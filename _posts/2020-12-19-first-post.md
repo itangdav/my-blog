@@ -7,6 +7,6 @@ categories: misc
 
 Hey guys! Welcome to my blog. This winter break, I am in the process of creating my own website and blog.
 
-Check out my website [here.](https://itangdav.github.io)
+Check out my website [here.](https://itangdav.github.io)  
 
 I will be blogging about a lot of various stuff, but it will mainly be focussed on math and CS.
