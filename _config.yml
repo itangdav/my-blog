@@ -32,7 +32,6 @@ paginate: false
 # Build settings
 theme: minima
 minima:
-  skin: solarized
   social_links:
     github: itangdav
 plugins:
