@@ -8,5 +8,5 @@ categories: math
 Here is a new draft of it with solutions!
 
 
-<button name = "button" onclick="location.href='{{ site.baseurl }}/assets/Incomplete_Information_Draft_2.pdf'"> Load Handout</button>
+<button name = "button" onclick="location.href='{{ site.baseurl }}/assets/handouts/Incomplete_Information_Draft_2.pdf'"> Load Handout</button>
 

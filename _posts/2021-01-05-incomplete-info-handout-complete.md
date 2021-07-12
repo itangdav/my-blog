@@ -7,5 +7,5 @@ categories: misc
 
 I've finally completed my handout. Now it has hints and some more practice problems to work with!
 
-<button name = "button" onclick="location.href='{{ site.baseurl }}/assets/Incomplete_Information_Draft_3.pdf'"> Load Handout</button>
+<button name = "button" onclick="location.href='{{ site.baseurl }}/assets/handouts/Incomplete_Information_Draft_3.pdf'"> Load Handout</button>
 

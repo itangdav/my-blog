@@ -10,5 +10,5 @@ Currently, I am working on a new Game Theory handout based on games without perf
 Combinatorics is honestly my favourite math subject, so no coincidence that I like CS, and I really enjoy gaming, so game theory seems like a perfect combo between the two.
 
 
-<button name = "button" onclick="location.href='{{ site.baseurl }}/assets/Combinatorics_3_Game_Theory.pdf'"> Load Handout</button>
+<button name = "button" onclick="location.href='{{ site.baseurl }}/assets/handouts/Combinatorics_3_Game_Theory.pdf'"> Load Handout</button>
 
